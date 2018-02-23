@@ -5,9 +5,7 @@ thumbnail-path: "img/military_logos.png"
 short-description: My goals as a Frontend developer.
 ---
 
-
 ![Military Logos]({{ site.baseurl }}/img/military_logos.png)
-
 
 # Frontend Developer Goals
 My goals as a Frontend developer are two-fold.  One is to help organizations that may not normally have the funds to hire someone to create or update their websites.  The other is two be able to do work from home after I retire to keep me busy and possibly earn some additional spending cash when retired.
